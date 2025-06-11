@@ -68,4 +68,3 @@ export default function WiseLinkHome() {
     </div>
   );
 }
-<placeholder for full component>
