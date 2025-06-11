@@ -1,0 +1,1 @@
+export const Button = ({ children, className }) => <button className={`bg-blue-600 text-white rounded-xl px-4 py-2 ${className}`}>{children}</button>;

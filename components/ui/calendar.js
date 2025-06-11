@@ -1,0 +1,1 @@
+export const Calendar = () => <div className="border p-4 rounded-xl text-center">[Calendar Placeholder]</div>;
